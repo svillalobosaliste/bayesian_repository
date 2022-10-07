@@ -7,7 +7,7 @@ It contains 3 files:
 2- df.csv: the data used for the analysis.  
 3- Villalobos_bayes.R: script.  
 
-About Sofía_Villalobos.R:
+About Sofía_Villalobos.R:  
 Lines 1-15 need to be run to load data, packages and define variables.  
 Lines 16-213 specify informative and informative priors, number of iterations, initial values,  
 and runs and storages the results for the Gibbs sampler with the Metropolis Hasting step for B1.  
