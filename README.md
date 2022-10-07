@@ -2,10 +2,10 @@
 
 Repository for the Assignment of Bayesian Statistics. Utrecht University - Methodology and Statistics. 2022.
 
-It contains 3 files:
-1- Villalobos.pdf: report to be graded. 
-2- df.csv: the data used for the analysis.
-3- Villalobos_bayes.R: script.
+It contains 3 files:    
+1- Villalobos.pdf: report to be graded.     
+2- df.csv: the data used for the analysis.  
+3- Villalobos_bayes.R: script.  
 
 About Sofía_Villalobos.R:
 
