@@ -1,6 +1,6 @@
 # research_repository.
 
-Repository for the Assignment of Bayesian Statistics. Utrecht University - Methodology and Statistics. 2022.
+Repository for the Assignment of Bayesian Statistics (2022). Utrecht University - Methodology and Statistics. 
 
 It contains 3 files:    
 1- Villalobos.pdf: report to be graded.     
