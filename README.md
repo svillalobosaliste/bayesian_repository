@@ -22,5 +22,4 @@ Lines 376-385 create tables with Mean, SD and Credible Intervals for both models
 This tables can be observed in line 385 "output_inf" and in line 385 "output_unin".  
 Lines 397-448 computes Deviation Information Criteria  
 Lines 450-463 consists in hypotheses testing with Bayes Factor using the package  
-BAIN. Results were obtain with set.seed(43838), and set.seed(78874) was used  
-to test stability of results.  
+BAIN. Results were obtain with set.seed(43838), and set.seed(78874) to test stability of results.  
