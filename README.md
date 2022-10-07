@@ -1,4 +1,4 @@
-# research_repository.
+# Bayesian Statistics.
 
 Repository for the Assignment of Bayesian Statistics (2022). Utrecht University - Methodology and Statistics. 
 
